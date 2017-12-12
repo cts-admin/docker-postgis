@@ -1,3 +1,13 @@
+# Fork of appropriate/docker-postgis
+
+The original repository can be found [here](https://github.com/appropriate/docker-postgis).
+
+The goal of this repository is to maintain a more GeoDjango friendly environment. The original repo didn't seem to play 
+nicely with all of GeoDjangos models which maybe isn't completely surprising since PostGIS 2.4 isn't officially
+supported by GeoDjango yet.
+
+The original README can be found below.
+
 # mdillon/postgis
 
 [![Build Status](https://travis-ci.org/appropriate/docker-postgis.svg)](https://travis-ci.org/appropriate/docker-postgis) [![Join the chat at https://gitter.im/appropriate/docker-postgis](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/appropriate/docker-postgis?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
